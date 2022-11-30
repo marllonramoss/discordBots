@@ -1,0 +1,16 @@
+{
+  "name": "t10-brain",
+  "version": "1.5.0",
+  "description": "Bot Discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "t5",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "discord.js": "^14.7.0",
+    "fs": "^0.0.1-security"
+  }
+}
